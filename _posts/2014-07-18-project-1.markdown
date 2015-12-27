@@ -1,0 +1,14 @@
+---
+title: Chilli
+subtitle: Chilli Powder
+layout: default
+modal-id: 1
+date: 2014-07-18
+img: chilli.jpeg
+thumbnail: chilli.jpeg
+alt: image-alt
+client: Start Bootstrap
+category: Food
+description: Chili powder (also powdered chili, chile powder or chilli powder) is the dried, pulverized fruit of one or more varieties of chili pepper, sometimes with the addition of other spices.
+
+---

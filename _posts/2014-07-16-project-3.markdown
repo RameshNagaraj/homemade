@@ -1,0 +1,14 @@
+---
+title: Turmeric
+subtitle: Turmeric Powder
+layout: default
+modal-id: 3
+date: 2014-07-16
+img: turmeric.jpeg
+thumbnail: turmeric.jpeg
+alt: image-alt
+client: Start Bootstrap
+category: Food
+description: Turmeric powder is a bright yellow powder made by dry grinding of mature turmeric rhizomes (underground stems). The use of turmeric for coloring and flavoring food, for cosmetic purposes and for medicinal properties dates back to the ancient Vedic culture of India. Used in almost all Indian curries.
+
+---

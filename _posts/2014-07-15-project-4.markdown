@@ -1,0 +1,14 @@
+---
+title: Sambar
+subtitle: Sambar Powder
+layout: default
+modal-id: 4
+date: 2014-07-15
+img: sambar.jpeg
+thumbnail: sambar.jpeg
+alt: image-alt
+client: Start Bootstrap
+category: Powder
+description: Sambar powder is a flavorful South Indian style coarse textured spices powder, prepared by grinding various type of basic Indian spices like coriander seeds, cumin seeds, mustard seeds, black peppercorns, dry red chilies, fenugreek seeds, cinnamon, dry coconut etc.
+
+---

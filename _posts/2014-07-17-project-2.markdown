@@ -1,0 +1,14 @@
+---
+title: Chutney
+subtitle: Chutney Powder
+layout: default
+modal-id: 2
+date: 2014-07-17
+img: chutney.jpeg
+thumbnail: chutney.jpeg
+alt: image-alt
+client: Start Bootstrap
+category: Food
+description: This is a basic spice powder that is made of roasted gram or fried gram.
+
+---

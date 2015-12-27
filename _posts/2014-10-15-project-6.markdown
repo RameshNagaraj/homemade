@@ -1,0 +1,14 @@
+---
+title: Rasam
+subtitle: Rasam Powder
+layout: default
+modal-id: 4
+date: 2014-10-15
+img: rasam.jpeg
+thumbnail: rasam.jpeg
+alt: image-alt
+client: Start Bootstrap
+category: Powder
+description: Rasam Powder, an aromatic and spicy mixture of ground spices is added while preparing various types of south Indian style lentil soups (rasam).
+
+---

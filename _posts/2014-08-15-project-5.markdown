@@ -1,0 +1,14 @@
+---
+title: Pickle
+subtitle: Pickle
+layout: default
+modal-id: 4
+date: 2014-08-15
+img: pickle.jpg
+thumbnail: pickle.jpg
+alt: image-alt
+client: Start Bootstrap
+category: Food
+description: A collection of South Indian pickle recipes like Lemon pickle, Apple pickle, Ginger Thokku, Vendhaya Mango, Beetroot Pickle.
+
+---
