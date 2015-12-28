@@ -1,5 +1,5 @@
-url: https://rameshnagaraj.github.io
-baseurl: /agency-jekyll-theme/
+url: https://rameshnagaraj.github.io/homemade
+baseurl: /homemade/
 
 # Site settings
 title: HomeMade
@@ -21,7 +21,7 @@ people:
     - title: twitter
       url: #
     - title: facebook
-      url: #
+      url: # https://www.facebook.com/charan.kumar.16
     - title: stack-overflow
       url: #
 
@@ -32,7 +32,7 @@ people:
     - title: twitter
       url: #
     - title: facebook
-      url: #
+      url: # https://www.facebook.com/tejas.teju.7
     - title: linkedin
       url: #
 
@@ -43,26 +43,26 @@ people:
     - title: twitter
       url: #
     - title: facebook
-      url: #
+      url: # https://www.facebook.com/Navzone
     - title: google-plus
       url: #
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: http://twitter.com/jekyllrb
+    url: 
   - title: facebook
     url:
   - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
+    url: 
   - title: bitbucket 
-    url: http://bitbucket.org/jekyll
+    url: 
   - title: github
-    url: http://github.com/jekyll
+    url:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 26 Nisarga Sir.M.V.Layout
+  - line: Yelahanka
   - line: Bangalore, KA 560097
 
 # Build settings
